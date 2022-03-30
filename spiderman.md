@@ -9,3 +9,7 @@
 # Spider-Man 3
 - Year: 2007
 - Name: Peter Benjamin Parker
+
+# Amaing Spider-Man 1
+- Year: 2012
+- Name: Peter Benjamin Parker
